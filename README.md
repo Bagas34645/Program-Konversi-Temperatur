@@ -23,3 +23,7 @@ reamur = (4/5) * celcius
 fahrenheit = ((9/5) * celcius) + 32
 
 kelvin = celcius + 273
+
+kemudian hasil perhitungan konversi temperatur tersebut, nilainya akan dikumpulkan di dalam list dengan variabel nilai.
+
+kemudian program menampilkan hasil konversi temperatur ke terminal
