@@ -1,5 +1,7 @@
 # Program-Konversi-Temperatur
 TUGAS ALGORITMA DAN STRUKTUR DATA 2
+Nama : Bagas Abiyu Kumara
+NIM  : 23090156
 
 Studi Kasus :
 
